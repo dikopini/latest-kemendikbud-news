@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="latestnews-kemendikbud",
-    version="0.0.1",
+    version="0.0.2",
     author="Irfan Basyar",
     author_email="irfanbasyar.ib@gmail.com",
     description="this package will get the latest news from Indonesian Ministry of Education and Culture (Kemdikbud)",
