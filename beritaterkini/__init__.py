@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 """
 berita terkini dari laman kemendikbud
 """
+description = 'to get the latest news from Indonesian Ministry of Education and Culture (Kemdikbud)'
+
 
 def ekstraksi_data():
     try:
